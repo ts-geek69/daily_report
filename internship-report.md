@@ -1098,10 +1098,10 @@ Today’s Update Report – 16 January 2025
 
 ### Date: 13-mar-2025
 
-* Today's Update Report – March 13, 2025 ()
+* Today's Update Report – March 13, 2025 ( 8 hrs 30 mins )
 * GoShimmy ( 2 hrs 30 mins )
 * Fix the responsiveness issue that Jasmine mentioned on the homepage.
-* TS-Web
+* TS-Web ( 6 hrs )
 * Design and Implemented the Calendly "Book a Call" section into the contact page.
 * Implemented the pagination for the blogs page with nuqs.
 * Implemented the parallax animation for the portfolio showcase page.
